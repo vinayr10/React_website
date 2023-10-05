@@ -1,0 +1,145 @@
+.banner3{
+    height: 40vh;
+    background-color: #000;
+    background: linear-gradient(rgba(5, 4, 8, 0.568),rgba(5, 4, 8, 0.568)), url('https://images.unsplash.com/photo-1524178232363-1fb2b075b655?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80')no-repeat;
+    background-position: center center;
+    background-size: cover;
+    width: 100%;
+    filter: blur(0px);
+    z-index: 1;
+}
+.mainn1 h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4.9rem;
+    font-weight: bold;
+    color: #ffffff;
+    position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-bottom: 4px solid red;
+ 
+}
+
+/********** Campus Information CSS Starts **********/  
+.heading-text {
+    color: #064727;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 5px;
+   
+}
+.heading-border {
+    background-color: #ffc600;
+    display: inline-block;
+    height: 3px;
+    margin-bottom: 0;
+    margin-top: 0;
+    position: relative;
+    width: 100px;
+}
+
+.about-campus {
+    width: 100%;
+    float: left;
+    padding: 20px;
+}
+.about-campus p{
+    color: #0d502e;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 15px;
+    line-height: 23px;
+}
+.about-campus ul {
+    list-style: none;
+    margin-top: 30px;
+    width: 100%;
+    float: left;
+}
+.about-campus li{
+    color: #68bb59;
+    font-size: 15px;
+    margin-bottom:8px;
+}
+.about-year {
+    margin-top:20px;
+}
+.about-year h3{
+    font-size: 45px;
+    font-weight: bold;
+    color: #68bb59;
+    line-height: 0;
+}
+.about-year span {
+    font-size: 40px;
+    color: #68bb59;
+    position: relative;
+    bottom: 5px;
+}
+.about-year h5{
+    font-size: 14px;
+    font-weight: 400;
+    margin-top:20px;
+}
+.about-campus a{
+    padding: 15px;
+    border: none;
+    background-color: #68bb59;
+    color: white;
+    border-radius: 2px;
+    font-size: 14px;
+    margin-top:25px;
+    float:left;
+    text-decoration:none;
+}
+.immg{
+    height: 520px;
+    width: 100%;
+}
+.chair_img{
+    height: 215px;
+    width: 100%;
+}
+.chair-sec{
+    padding: 20px 30px;
+}
+.text1{
+   
+    text-align: justify;
+    
+   
+}
+.testimonial{
+    width: 380px;
+    float: left;
+    margin-right:10px;
+}
+.testimonial-text{
+    background: #9ba8c5;
+    padding: 20px;
+    line-height: 25px;
+    border-radius: 10px;
+}
+.testimonial-detail{
+    float:left;
+    margin-top:10px;
+}
+.testimonial-img{
+    float:left;
+}
+.testimonial-img i{
+    border-radius:50%;
+    padding-top: 10px;
+}
+.testimonial-name{
+    margin-left:10px;
+    float:left;
+}
+.testimonial-name h5{
+    font-size:18px;
+    margin-top:8px;
+}
+.testi{
+    padding: 2rem;
+}
